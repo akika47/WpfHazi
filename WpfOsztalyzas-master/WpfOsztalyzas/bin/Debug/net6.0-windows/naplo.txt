@@ -1,0 +1,10 @@
+Sós Kifli;2023.01.03;Matematika;5Savas Lufi;2023. 01. 04.;Fizika;3
+Savas Lufi;2023. 01. 04.;Fizika;3
+János Vitéz;2022. 12. 26.;Magyar irodalom;3
+János Vitéz;2022. 12. 26.;Magyar irodalom;5
+János Vitéz;2022. 12. 26.;Magyar irodalom;5
+János Vitéz;2022. 12. 26.;Magyar irodalom;4
+János Vitéz;2022. 12. 26.;Magyar irodalom;4
+János Vitéz;2022. 12. 26.;Magyar irodalom;2
+János Vitéz;2022. 12. 26.;Magyar irodalom;2
+János Vitéz;2022. 12. 26.;Magyar irodalom;2
